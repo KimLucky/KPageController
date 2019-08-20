@@ -1,0 +1,6 @@
+framework module Pods_KPageController_Tests {
+  umbrella header "Pods-KPageController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module KPageController {
+  umbrella header "KPageController-umbrella.h"
+
+  export *
+  module * { export * }
+}
