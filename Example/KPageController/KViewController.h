@@ -6,7 +6,7 @@
 //  Copyright (c) 2019 KimLucky. All rights reserved.
 //
 
-#import <KPageViewController/KPageViewController.h>
+#import <KPageController/KPageViewController.h>
 
 @interface KViewController : KPageViewController
 
